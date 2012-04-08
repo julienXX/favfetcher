@@ -1,6 +1,6 @@
 # favfetcher
 
-A website written in noir. 
+A webservice to fetch a website favicon in Clojure
 
 ## Usage
 
@@ -11,7 +11,7 @@ lein run
 
 ## License
 
-Copyright (C) 2011 FIXME
+Copyright (C) 2012 Julien Blanchard
 
 Distributed under the Eclipse Public License, the same as Clojure.
 
