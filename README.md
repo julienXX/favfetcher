@@ -7,6 +7,8 @@ A webservice to fetch a website favicon in Clojure
 ```bash
 lein deps
 lein run
+
+$ curl -d url=http://yoururl.com localhost:8080
 ```
 
 ## License
