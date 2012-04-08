@@ -1,7 +1,8 @@
 (ns favfetcher.views.root
   (:require [favfetcher.views.common :as common]
             [noir.content.getting-started]
-            [noir.response :as response])
+            [noir.response :as response]
+            [net.cgrand.enlive-html :as html])
   (:use [noir.core :only [defpage]]
         [hiccup.core :only [html]]))
 
